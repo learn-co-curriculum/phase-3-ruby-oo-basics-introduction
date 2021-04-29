@@ -18,5 +18,5 @@ We'll be discussing these basics of OOP in Ruby:
 * The `new` class method
 
 Ruby is a powerful object-oriented language used by popular applications. In the
-upcoming lessons we'll build the foundational knowledge of OOP to be well on
+upcoming lessons you'll build the foundational knowledge of OOP to be well on
 your way to developing your own!
