@@ -11,6 +11,7 @@ call methods when you want shared behavior between pages in the application.
 We'll be discussing these basics of OOP in Ruby:
 
 * Classes and instances
+* The `new` class method
 * Instance methods
 * Variable scope
 * Object Attributes
