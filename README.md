@@ -1,4 +1,4 @@
-# Introduction to Object-Oriented Ruby
+# Basics of Object Orientation in Ruby
 
 Object-oriented programming (OOP) is a type of programming based on the concept
 of "objects", which can contain data, in the form of fields (often known as
@@ -10,12 +10,12 @@ call methods when you want shared behavior between pages in the application.
 
 We'll be discussing these basics of OOP in Ruby:
 
-* Local variables and instance variables
+* Classes and instances
 * Instance methods
-* Setting instance variables from initialize
-* Global variables
 * Variable scope
-* The `new` class method
+* Object Attributes
+* Setter and Getter Methods
+* Setting instance variables from initialize
 
 Ruby is a powerful object-oriented language used by popular applications. In the
 upcoming lessons you'll build the foundational knowledge of OOP to be well on
