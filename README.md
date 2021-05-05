@@ -1,4 +1,4 @@
-# Basics of Object Orientation in Ruby
+# Basics of Object Orientation in Ruby: Introduction
 
 Object-oriented programming (OOP) is a type of programming based on the concept
 of "objects", which can contain data, in the form of fields (often known as
