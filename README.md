@@ -13,7 +13,7 @@ We'll be discussing these basics of OOP in Ruby:
 * Classes and instances
 * The `new` class method
 * Instance methods
-* Variable scope
+* Local variables and instance variables
 * Object Attributes
 * Setter and Getter Methods
 * Setting instance variables from initialize
